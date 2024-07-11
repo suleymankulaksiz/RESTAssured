@@ -34,7 +34,7 @@ public class GetAndPostExamples  {
 	public void testPost() {
 		
 		Map<String, Object>map = new HashMap<String, Object>();
-		//map.put("name","Süleyman");
+		//map.put("name","Deneme");
 		//map.put("job", "Tester");
 		//System.out.println(map);
 		JSONObject request = new JSONObject(map);
